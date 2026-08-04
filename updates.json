@@ -3,8 +3,8 @@
     "word-goblin@wordgoblin.addon": {
       "updates": [
         {
-          "version": "0.6.94",
-          "update_link": "https://github.com/ItsRammen/word-goblin-releases/releases/download/v0.6.94/word-goblin-firefox-0.6.94.xpi",
+          "version": "0.6.95",
+          "update_link": "https://github.com/ItsRammen/word-goblin-releases/releases/download/v0.6.95/word-goblin-firefox-0.6.95.xpi",
           "applications": {
             "gecko": {
               "strict_min_version": "109.0"

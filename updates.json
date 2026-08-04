@@ -1,6 +1,6 @@
 {
   "addons": {
-    "word-goblin@wordgoblin.addon": {
+    "word-goblin@wordgoblin.extension": {
       "updates": [
         {
           "version": "0.6.95",

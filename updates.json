@@ -1,0 +1,17 @@
+{
+  "addons": {
+    "word-goblin@proton.support": {
+      "updates": [
+        {
+          "version": "0.6.93",
+          "update_link": "https://github.com/ItsRammen/word-goblin-releases/releases/download/v0.6.93/word-goblin-firefox-0.6.93.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "109.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

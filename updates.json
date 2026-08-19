@@ -3,6 +3,16 @@
     "word-goblin@wordgoblin.extension": {
       "updates": [
         {
+          "version": "0.7.36",
+          "update_link": "https://github.com/ItsRammen/word-goblin-releases/releases/download/v0.7.36/word-goblin-firefox-0.7.36.xpi",
+          "update_hash": "sha256:3d9eff887348c99af53c8252b1886162123f6c0c151c604166101ab1bea174dc",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "109.0"
+            }
+          }
+        },
+        {
           "version": "0.7.28",
           "update_link": "https://github.com/ItsRammen/word-goblin-releases/releases/download/v0.7.28/word-goblin-firefox-0.7.28.xpi",
           "update_hash": "sha256:05c26ae646cd58fe727715bc9b1aee920732554ac5bc63578f030cd8e0ce03c9",
